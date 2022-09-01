@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Sonam 
+
 🌱🔭🔭
+
+### About Me
 Logical and organized individual with a strong foundation in software engineering. Passionate about Solving Real world
 problem using Development Skills. Proficient in C, Java and Python with Machine Learning. I have a keen interest in
 developing and learning something new everyday an excellent teamwork with good interpersonal and communication
