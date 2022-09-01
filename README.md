@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sonam 
 🌱🔭🔭
-I have Logical and organized individual with a strong foundation in software engineering. Passionate about Solving Real world
+Logical and organized individual with a strong foundation in software engineering. Passionate about Solving Real world
 problem using Development Skills. Proficient in C, Java and Python with Machine Learning. I have a keen interest in
 developing and learning something new everyday an excellent teamwork with good interpersonal and communication
 skills. Looking to start a career as an entry-level professional with an esteemed organization where I can utilize my skills
